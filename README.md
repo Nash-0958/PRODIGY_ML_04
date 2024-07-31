@@ -1,6 +1,6 @@
-### Developing a hand gesture recognition model involves several key steps, including data collection, preprocessing, model training, and evaluation. This type of model can enable intuitive human-computer interaction by recognizing and classifying different hand gestures from image or video data.
+## Developing a hand gesture recognition model involves several key steps, including data collection, preprocessing, model training, and evaluation. This type of model can enable intuitive human-computer interaction by recognizing and classifying different hand gestures from image or video data.
 
-Steps to Develop a Hand Gesture Recognition Model
+### Steps to Develop a Hand Gesture Recognition Model
 1. Data Collection
 Dataset: Collect a dataset of hand gestures. You can use existing datasets such as the Hand Gesture Recognition Database, or you can create your own dataset by capturing images or videos of various hand gestures.
 Labeling: Ensure that each image or video frame is labeled with the corresponding gesture.
